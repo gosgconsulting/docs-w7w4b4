@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ozjclb.inter77cad.cyou/sitemap.xml
